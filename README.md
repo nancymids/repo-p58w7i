@@ -1,8 +1,10 @@
 2026-09-16
 
-<!-- notify 1/2 · LaSKepEl -->
-## Notification 1/2
-Round: Round 1
-To: serenamaypopoae@hotmail.com, dixons623@aol.com
-At: 2026-09-16 14:28:34
-Id: LaSKepEl
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: percyskid@aol.com, raburrelljr@yahoo.com
+At: 2026-09-16 14:28:42
+Id: s8ml3eap
